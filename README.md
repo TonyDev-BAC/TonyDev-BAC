@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/logincarp.firebasestorage.app/o/reactortony.jpg?alt=media&token=755fe060-b7fe-4946-8ebd-120aa0100adc" alt="Anthony DS Logo" width="150" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/logincarp.firebasestorage.app/o/Imagenes%2FReacto2.0.png?alt=media&token=0b21abbb-1e7d-47c8-ab88-7f5b1b524f86" alt="Anthony DS Logo" width="150" />
   <h1>[ INGENIERO EN SISTEMAS - Anthony DS ]</h1>
   <p>Sistema ANTHONYDS V4.2.1 | Estado: 🟢 OPERATIVO</p>
 </div>
