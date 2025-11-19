@@ -22,7 +22,7 @@ Trabajo con un conjunto de herramientas optimizado para alto rendimiento.
 | :--- | :--- |
 | **Frontend/App** | `Next.js` • `React` • `TypeScript` • `Tailwind CSS` |
 | **Backend/Sistemas** | `Node.js` • `API Routes` • `PL/SQL` • `Oracle APEX` |
-| **Bases de Datos** | `SQL Avanzado` • `PostgreSQL` • `MongoDB` (Implícito en algún proyecto) |
+| **Bases de Datos** | `SQL Avanzado` • `PostgreSQL` • `MongoDB`|
 | **Analytics/Business** | `Power BI` • `Análisis de Riesgos` • `Gobernanza de Datos` |
 | **Metodología** | `Git/GitHub` • `Netlify` • `WebSockets` • `Sistemas Empresariales (ERP/CRM)` |
 
@@ -34,13 +34,11 @@ Explora mis desarrollos y simulaciones de sistemas avanzados.
 
 | Proyecto | Descripción y Enfoque | Tecnologías Destacadas |
 | :--- | :--- | :--- |
-| **OMEGA (Plataforma)** | **Sistema colaborativo intergaláctico** con soporte real-time. Incluye gestión de tareas y análisis de productividad en tiempo real. | `React`, `Next.js`, `PostgreSQL`, `WebSocket` |
 | **ASISTENTE JARVIS** | **Asistente Virtual** para gestión y evaluación de riesgos de proveedores. Sistema de automatización empresarial. | `Chatbot`, `Automatización`, `Dashboard (Power BI)` |
-| **LIBRÓS NEXUS** | **Desarrollo Backend** de una biblioteca de libros. Gestión de usuarios, ediciones y categorías. | `Desarrollo Backend`, `Node.js`, `MongoDB/PostgreSQL` (a especificar) |
+| **LIBRÓS NEXUS** | **Desarrollo Backend** de una biblioteca de libros. Gestión de usuarios, ediciones y categorías. | `Desarrollo Backend`, `Node.js`, `MongoDB` |
 | **PROYECTO LUMINA** | **Desarrollo Web** y **UI/UX** para la entidad RED DECOM. Enfocado en la educación y empleabilidad. | `Desarrollo Web`, `UI/UX` |
 | **CALCULADORA DE PROPINAS** | **Frontend React** para gestión de menú, consumo, cálculo de subtotales y propinas. | `React`, `Frontend Development`, `JavaScript` |
 | **APLICACIÓN ADMIN APEX** | **Desarrollo Empresarial** usando Oracle APEX para la migración de sistemas administrativos. | `Oracle APEX`, `PL/SQL`, `Desarrollo Empresarial` |
-| **FIFA WORLD CUP** | **Arquitectura Distribuida** para un sistema de la Copa del Mundo. | `Arquitectura Distribuida`, `Backend` |
 | **CATÁLOGO DE DATOS** | **Gobernanza de Datos** y Dashboard estratégico para análisis de métricas clave. | `Power BI`, `Data Governance`, `Analytics` |
 
 ---
