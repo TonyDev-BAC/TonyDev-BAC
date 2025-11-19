@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://es.cooltext.com/logo-design-neon" alt="Anthony DS Logo" width="150" />
+  <h1>[ INGENIERO EN SISTEMAS - Anthony DS ]</h1>
+  <p>Sistema ANTHONYDS V4.2.1 | Estado: 🟢 OPERATIVO</p>
+</div>
 
-<!--
-**TonyDev-BAC/TonyDev-BAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 > Misión [DEV OPS]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **Ingeniero en Sistemas** especializado en el desarrollo y modernización de soluciones de software. Mi experiencia abarca desde la migración de sistemas empresariales legacy hasta la implementación de **plataformas full-stack** y análisis de datos estratégicos.
+
+Mi interés actual se centra en: **Desarrollo de Software**, **Análisis de Datos/Ciencia de Datos** y **Ciberseguridad/DevOps**.
+
+---
+
+### 🛠️ > Stack de Tecnologías [CORE SYSTEM]
+
+Trabajo con un conjunto de herramientas optimizado para alto rendimiento.
+
+| Categoría | Tecnologías Clave |
+| :--- | :--- |
+| **Frontend/App** | `Next.js` • `React` • `TypeScript` • `Tailwind CSS` |
+| **Backend/Sistemas** | `Node.js` • `API Routes` • `PL/SQL` • `Oracle APEX` |
+| **Bases de Datos** | `SQL Avanzado` • `PostgreSQL` • `MongoDB` (Implícito en algún proyecto) |
+| **Analytics/Business** | `Power BI` • `Análisis de Riesgos` • `Gobernanza de Datos` |
+| **Metodología** | `Git/GitHub` • `Netlify` • `WebSockets` • `Sistemas Empresariales (ERP/CRM)` |
+
+---
+
+### 🌌 > Proyectos en Órbita [ÓRBITA ESTELAR]
+
+Explora mis desarrollos y simulaciones de sistemas avanzados.
+
+| Proyecto | Descripción y Enfoque | Tecnologías Destacadas |
+| :--- | :--- | :--- |
+| **OMEGA (Plataforma)** | **Sistema colaborativo intergaláctico** con soporte real-time. Incluye gestión de tareas y análisis de productividad en tiempo real. | `React`, `Next.js`, `PostgreSQL`, `WebSocket` |
+| **ASISTENTE JARVIS** | **Asistente Virtual** para gestión y evaluación de riesgos de proveedores. Sistema de automatización empresarial. | `Chatbot`, `Automatización`, `Dashboard (Power BI)` |
+| **LIBRÓS NEXUS** | **Desarrollo Backend** de una biblioteca de libros. Gestión de usuarios, ediciones y categorías. | `Desarrollo Backend`, `Node.js`, `MongoDB/PostgreSQL` (a especificar) |
+| **PROYECTO LUMINA** | **Desarrollo Web** y **UI/UX** para la entidad RED DECOM. Enfocado en la educación y empleabilidad. | `Desarrollo Web`, `UI/UX` |
+| **CALCULADORA DE PROPINAS** | **Frontend React** para gestión de menú, consumo, cálculo de subtotales y propinas. | `React`, `Frontend Development`, `JavaScript` |
+| **APLICACIÓN ADMIN APEX** | **Desarrollo Empresarial** usando Oracle APEX para la migración de sistemas administrativos. | `Oracle APEX`, `PL/SQL`, `Desarrollo Empresarial` |
+| **FIFA WORLD CUP** | **Arquitectura Distribuida** para un sistema de la Copa del Mundo. | `Arquitectura Distribuida`, `Backend` |
+| **CATÁLOGO DE DATOS** | **Gobernanza de Datos** y Dashboard estratégico para análisis de métricas clave. | `Power BI`, `Data Governance`, `Analytics` |
+
+---
+
+### 📡 > Conectar [INTERFAZ DE CONTACTO]
+
+¿Tienes una misión o una propuesta de colaboración? Accede a mi interfaz de contacto:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthony-d%C3%A1vila-s%C3%A1nchez-6612aa245/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Proyectos-5D3FD3?style=for-the-badge&logo=vercel)](https://anthonyds-portafolio.netlify.app/#works)
