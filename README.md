@@ -6,7 +6,7 @@
 
 ---
 
-### 🌐 > Misión [DEV OPS]
+### 🌐 > Misión [DEV SENIOR]
 
 Soy **Ingeniero en Sistemas** especializado en el desarrollo y modernización de soluciones de software. Mi experiencia abarca desde la migración de sistemas empresariales legacy hasta la implementación de **plataformas full-stack** y análisis de datos estratégicos.
 
